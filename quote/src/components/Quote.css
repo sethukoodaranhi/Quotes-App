@@ -1,0 +1,27 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+.box{
+    width:500px;
+    height:500px;
+    position: relative;
+    margin-top: 15em;
+}
+.box h2{
+    font-family: cursive;
+    
+}
+.btn{
+    width:150px;
+    height:50px;
+    background: transparent;
+    border-radius: 50px;
+    margin-top: 2em;
+}
+.btntxt{
+    font-size:20px;
+    font-style: italic;
+    font-family: monospace;
+}
